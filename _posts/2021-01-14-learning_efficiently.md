@@ -1,0 +1,11 @@
+# Learning efficiently and effectively 
+
+Technology can be used to our advantage for learning efficiently. Psychologists have developed a technique named [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition) that allows for better memory retention of many and complicated facts. And software is no stranger to putting this idea into practice. 
+
+In 2012, [Jeremy Howard](https://www.fast.ai/about/#jeremy) described [how he became fluent in Chinese](https://vimeo.com/40265872), building his learning on spaced repetition foundations and a [system](https://scholarspace.manoa.hawaii.edu/handle/10125/49924) developed by the University of Hawaii. In his talk, he quotes Piotr Wozniak's 1999 article [Effective learning: Twenty rules of formulating knowledge](https://www.supermemo.com/en/archives1990-2015/articles/20rules). Wozniak maintains a [rich repository](https://supermemo.guru/wiki/Main_Page) of information related to memory. Howard spoke about spaced repetition in an [AI podcast discussion](https://youtu.be/J6XcP4JOHmk?t=5541) too.  
+
+I respect Jeremy Howard because he's living proof of how with freedom of thought and enough hard work, one can learn in depth and excel in an area, without having received formal education on the topic. [David J. Malan](https://cs.harvard.edu/malan/), an academic educator who popularises and simplifies Computer Science concepts without watering them down, had [touched upon this (23min 20sec)](https://www.codenewbie.org/podcast/what-its-like-to-be-in-a-computer-science-class), saying _"[...] you don't need a degree to learn, you don't need anyone's permission to learn and you certainly don't need to enrol in a formal program to learn. It depends, reading a book is a very passive experience. It really is in the application of things you've learned or read or heard [...], it really needs to be some active experience"_.  
+Speaking of active experiences, here's a student's account on how they [learned French in 12 months](http://www.runwes.com/2020/02/11/howilearnedfrench.html). Check the tl;dr part to see how this learner utilised available resources such as Duolingo, Anki etc.  
+
+Taking the above onboard, I intend to use tools like [Anki](https://apps.ankiweb.net/) to effectively study subjects that interest me, in my own time.  
+

@@ -1,6 +1,6 @@
 # Home
 
-An online notebook to keep notes while learning practical computing incl. ML [every day](https://youtu.be/t2V2kf2gNnI?t=2102), using [literate programming](http://literateprogramming.com/index.html). I always keep an eye out for companies that are i) open to employing literate programming and Julia for their software engineering and data science needs, ii) exhibit good leadership and a people-first culture.  
+An online notebook to keep notes while learning practical computing incl. ML [every day](https://youtu.be/t2V2kf2gNnI?t=2102), using [literate programming](http://literateprogramming.com/index.html). I always keep an eye out for companies that are i) open to employing literate programming Julia and F# for their software engineering and data science needs, ii) exhibit good leadership and a people-first culture.  
 
 _Tools:_  
 [DuckDuckGo Search Syntax](https://help.duckduckgo.com/duckduckgo-help-pages/results/syntax/)  
@@ -16,6 +16,7 @@ _Programming:_
 [Advent of Code](https://adventofcode.com) | [List of Free Learning Resources](https://ebookfoundation.github.io/free-programming-books/) | [Rosalind](http://rosalind.info/problems/list-view/) | [Learn Regex](https://github.com/ziishaned/learn-regex)  
 [Python 3 reference](https://perso.limsi.fr/pointal/python:memento) | [A ~5 minute guide to Numba](https://numba.pydata.org/numba-doc/latest/user/5minguide.html) | [fast.ai Recommended Python learning resources](https://forums.fast.ai/t/recommended-python-learning-resources/26888) | [Understanding Python through snippets](https://github.com/satwikkansal/wtfpython/blob/master/README.md) | [Tiny Python Projects](http://tinypythonprojects.com/) | [Mathematical Python](https://www.math.ubc.ca/~pwalls/math-python/)  
 [Learn Julia](https://julialang.org/learning/) | [Pluto.jl](https://github.com/fonsp/Pluto.jl) | [Weave.jl - Scientific Reports Using Julia](http://weavejl.mpastell.com/stable/) | [Introduction to Applied Linear Algebra](http://vmls-book.stanford.edu/vmls-julia-companion.pdf) | [Algorithms for Decision Making](https://algorithmsbook.com/)   
+[Data Science with F#](https://fsharp.org/guides/data-science/) | [F# for fun and profit](https://fsharpforfunandprofit.com/) | [Get started with F#](https://docs.microsoft.com/en-us/dotnet/fsharp/get-started/)  
 
 
 _Data science:_  

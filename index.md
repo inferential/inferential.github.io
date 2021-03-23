@@ -1,6 +1,6 @@
 # Home
 
-An online notebook to keep notes while learning practical computing incl. ML [every day](https://youtu.be/t2V2kf2gNnI?t=2102), using [literate programming](http://literateprogramming.com/index.html). I always keep an eye out for companies that are i) open to employing literate programming Julia and F# for their software engineering and data science needs, ii) exhibit good leadership and a people-first culture.  
+An online notebook to keep notes while learning practical computing incl. ML [every day](https://youtu.be/t2V2kf2gNnI?t=2102), using [literate programming](http://literateprogramming.com/index.html). I always keep an eye out for companies that are i) open to employing literate programming in Julia and/or F# for their software engineering & data science needs, ii) exhibit good leadership and a people-first culture.  
 
 _Tools:_  
 [DuckDuckGo Search Syntax](https://help.duckduckgo.com/duckduckgo-help-pages/results/syntax/)  

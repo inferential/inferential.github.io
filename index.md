@@ -1,6 +1,6 @@
 # Home
 
-An online notebook to keep notes while learning practical computing incl. ML [every day](https://youtu.be/t2V2kf2gNnI?t=2102), using [literate programming](http://literateprogramming.com/index.html). I always keep an eye out for companies that are i) open to employing literate programming in Julia and/or F# for their software engineering & data science needs, ii) exhibit good leadership and a people-first culture.  
+An online notebook to keep notes while learning practical computing incl. ML [every day](https://youtu.be/t2V2kf2gNnI?t=2102), using [literate programming](http://literateprogramming.com/index.html). I always keep an eye out for companies that are i) open to employing literate programming in Julia[^1] and F#[^2] for their data science & software engineering needs, ii) exhibit good leadership and a people-first culture.  
 
 _Tools:_  
 [DuckDuckGo Search Syntax](https://help.duckduckgo.com/duckduckgo-help-pages/results/syntax/)  
@@ -35,3 +35,7 @@ _Cool conferences:_
 [InfoQ](https://www.infoq.com/transcripts/presentations/)  
 [FOSDEM](https://video.fosdem.org/)  
 [Strange Loop](https://thestrangeloop.com/)
+
+---
+[^1]: Julia solves the two language problem, and is already supporting pharmaceutical (Pfizer, AstraZeneca), financial (Aviva), HPC, energy (Fugro Roames) and other segments (FAA, Cisco, DARPA) [source](https://www.nextplatform.com/2021/03/22/why-julia-is-turning-heads-in-2021/)   
+[^2]: F# is the best enterprise language [source](https://fsharpforfunandprofit.com/posts/fsharp-is-the-best-enterprise-language/)  

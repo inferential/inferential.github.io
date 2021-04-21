@@ -37,5 +37,5 @@ _Cool conferences:_
 [Strange Loop](https://thestrangeloop.com/)
 
 ---
-[^1]: Julia solves the two language problem, and is already supporting pharmaceutical (Pfizer, AstraZeneca), financial (Aviva), HPC, energy (Fugro Roames) and other segments (FAA, Cisco, DARPA) [source](https://www.nextplatform.com/2021/03/22/why-julia-is-turning-heads-in-2021/)   
+[^1]: Julia solves the two language problem, and is already supporting pharmaceutical (Pfizer, AstraZeneca, Prioris.ai), financial (Aviva), HPC, energy (Fugro Roames) and other segments (FAA, Cisco, DARPA) [source](https://www.nextplatform.com/2021/03/22/why-julia-is-turning-heads-in-2021/)   
 [^2]: F# is the best enterprise language [source](https://fsharpforfunandprofit.com/posts/fsharp-is-the-best-enterprise-language/)  
